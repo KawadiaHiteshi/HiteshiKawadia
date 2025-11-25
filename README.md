@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" width="100%" />
 </p>
-[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
-]()
 <h1 align="center">Hi 👋, I'm Hiteshi Kawadia!</h1>
 <h3 align="center">A Passionate Full Stack Developer 
     </h3>
